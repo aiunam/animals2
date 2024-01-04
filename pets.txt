@@ -1,3 +1,5 @@
 Perlita 2
 Pupecita 2
 Raquel 2
+Monty
+Mocha
